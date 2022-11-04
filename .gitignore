@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+*.log
+tmp/
+dmenu
+dmenu_path
+dmenu_run
+stest
+*.o
